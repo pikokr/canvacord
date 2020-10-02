@@ -1,6 +1,6 @@
 {
   "name": "canvacord-assets",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Canvacord assets",
   "main": "index.js",
   "keywords": [
@@ -15,7 +15,6 @@
   "directories": {
     "test": "test"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Snowflake107/canvacord.git"
