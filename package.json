@@ -1,6 +1,6 @@
 {
-  "name": "canvacord-assets",
-  "version": "1.1.0",
+  "name": "@canvacord/assets",
+  "version": "1.0.0",
   "description": "Canvacord assets",
   "main": "index.js",
   "keywords": [
@@ -9,7 +9,6 @@
   ],
   "author": "Snowflake107 <devsnowflake107@gmail.com>",
   "license": "MIT",
-  "dependencies": {},
   "directories": {
     "test": "test"
   },
